@@ -1,0 +1,20 @@
+{
+  "name": "react-dnd-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "immutability-helper": "^2.7.0",
+    "lodash.flow": "^3.5.0",
+    "react": "^16.4.0",
+    "react-dnd": "^4.0.2",
+    "react-dnd-html5-backend": "^4.0.2",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
